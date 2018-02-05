@@ -1,2 +1,2 @@
-# modal-api
-Saf javascript ile geliştirilmiş Modal api
+# modal-module
+Saf javascript ile geliştirilmiş Modal module
